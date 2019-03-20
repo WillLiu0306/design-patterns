@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="design-patterns:Web exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="34c1bf37-d33d-473c-b98e-6f838f95e6ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/prototype/GoldenCudgel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/prototype/MonkeyKing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/DbRouteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/proxy/OrderServiceStaticProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/JdkProxy/Gril.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/JdkProxy/JDKProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/cglibproxy/CglibMeiPoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/cglibproxy/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/proxy/simpleproxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/proxy/staticproxy/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lwh/proxy/staticproxy/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lwh/proxy/staticproxy/SimpleProxyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/Leader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/Leader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/delegate/simple/EmployeeA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/delegate/simple/EmployeeA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/delegate/simple/EmployeeB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/delegate/simple/EmployeeB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/delegate/simple/IEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/delegate/simple/IEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/delegate/simple/Leader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/delegate/simple/Leader.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/AdidasShoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/factory/AdidasShoes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/IShoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/factory/IShoes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/NikeShoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/factory/NikeShoes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/PersonComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/TreeSetTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/abstractfactory/AdidasBasketballShoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/factory/abstractfactory/AdidasBasketballShoes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/abstractfactory/AdidasRunningShoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/factory/abstractfactory/AdidasRunningShoes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/abstractfactory/AdidasShoesFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/factory/abstractfactory/AdidasShoesFactory.class" afterDir="false" />
@@ -37,6 +38,38 @@
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/factorymethod/IShoesFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/factory/factorymethod/IShoesFactory.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/factorymethod/NikeShoesFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/factory/factorymethod/NikeShoesFactory.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/factory/simplefactory/ShoesFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/factory/simplefactory/ShoesFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/prototype/GoldenCudgel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/prototype/GoldenCudgel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/prototype/MonkeyKing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/prototype/MonkeyKing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/prototype/work/EventTransferUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/prototype/work/EventTransferUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/prototype/work/SubmitOrderCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/prototype/work/SubmitOrderCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/prototype/work/SubmitOrderEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/prototype/work/SubmitOrderEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/DbRouteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/DbRouteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/IOrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/IOrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/OrderDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/OrderDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/db/DynamicDatasourceEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/db/DynamicDatasourceEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/proxy/OrderServiceDynamicProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/proxy/OrderServiceDynamicProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/proxy/OrderServiceStaticProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dbroute/proxy/OrderServiceStaticProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/JdkProxy/Gril.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/JdkProxy/Gril.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/JdkProxy/JDKMeiPo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/JdkProxy/JDKMeiPo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/JdkProxy/JDKProxyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/JdkProxy/JDKProxyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/cglibproxy/CglibMeiPo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/cglibproxy/CglibMeiPo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/cglibproxy/CglibMeiPoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/cglibproxy/CglibMeiPoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/cglibproxy/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/cglibproxy/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/$Proxy0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/GPClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/GPClassLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/GPInvocationHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/GPInvocationHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/GPMeiPo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/GPMeiPo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/GPProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/GPProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/GPProxyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/GPProxyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/simpleproxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/simpleproxy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/simpleproxy/Proxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/simpleproxy/Proxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/simpleproxy/RealSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/simpleproxy/RealSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/simpleproxy/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/simpleproxy/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/staticproxy/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/staticproxy/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/proxy/staticproxy/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/proxy/staticproxy/Son.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/singleton/hungry/HungrySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/singleton/hungry/HungrySingleton.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/singleton/hungry/HungryStaticSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/singleton/hungry/HungryStaticSingleton.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/singleton/lazy/InvokeReflectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/singleton/lazy/InvokeReflectTest.class" afterDir="false" />
@@ -50,10 +83,13 @@
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/singleton/seriable/SeriableSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/singleton/seriable/SeriableSingleton.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/singleton/threadlocal/ThreadLocalSingleton$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/singleton/threadlocal/ThreadLocalSingleton$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lwh/singleton/threadlocal/ThreadLocalSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lwh/singleton/threadlocal/ThreadLocalSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/design-patterns.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/lwh/factory/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lwh/factory/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/lwh/factory/abstractfactory/AbstractFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lwh/factory/abstractfactory/AbstractFactoryTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/lwh/factory/factorymethod/FactoryMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lwh/factory/factorymethod/FactoryMethodTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/lwh/factory/simplefactory/SimpleFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lwh/factory/simplefactory/SimpleFactoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lwh/prototype/PrototypeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lwh/prototype/PrototypeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lwh/proxy/staticproxy/SimpleProxyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lwh/proxy/staticproxy/SimpleProxyTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/lwh/singleton/ConcurrentExecutor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lwh/singleton/ConcurrentExecutor$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/lwh/singleton/ConcurrentExecutor$RunHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lwh/singleton/ConcurrentExecutor$RunHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/lwh/singleton/ConcurrentExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lwh/singleton/ConcurrentExecutor.class" afterDir="false" />
@@ -79,89 +115,112 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/prototype/work/SubmitOrderEvent.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/PromotionStrategyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+            <state relative-caret-position="120">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#200#227#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/prototype/work/EventTransferUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/PromotionActivityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="243">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lwh/prototype/PrototypeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/MsgResult.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/prototype/MonkeyKing.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/Payment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="333">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar!/org/apache/commons/beanutils/BeanUtils.class">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/AliPay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+            <state relative-caret-position="270">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar!/org/apache/commons/beanutils/BeanUtilsBean.class">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/WechatPay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="254" selection-start-line="254" selection-end-line="254" />
+            <state relative-caret-position="189">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar!/org/apache/commons/beanutils/PropertyUtilsBean.class">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/JDPay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="883" selection-start-line="883" selection-end-line="883" />
+            <state relative-caret-position="135">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk1.8.0/src.zip!/java/beans/Introspector.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/PayStrategy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="176" column="9" lean-forward="true" selection-start-line="176" selection-start-column="9" selection-end-line="176" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/Leader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="171">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#156#174#0" expanded="true" />
+                <element signature="e#179#196#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayStrategyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -189,36 +248,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/lwh/singleton/ConcurrentExecutor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/singleton/threadlocal/ThreadLocalSingelton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/singleton/threadlocal/ThreadLocalSingleton.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/lwh/singleton/threadlocal/ThreadLocalSingletonTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/factory/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/factory/PersonComparator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/factory/TreeSetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/prototype/PrototypeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/prototype/MonkeyKing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/simpleproxy/Subject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/simpleproxy/RealSubject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/simpleproxy/Proxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/simpleproxy/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/staticproxy/Son.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/staticproxy/Father.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/lwh/proxy/staticproxy/SimpleProxyTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/lwh/prototype/PrototypeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/JdkProxy/Gril.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/Order.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/OrderDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/IOrderService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/db/DynamicDatasourceEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/proxy/OrderServiceStaticProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/CglibProxy/Customer.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/JdkProxy/JDKProxyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/JdkProxy/JDKMeiPo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/CglibProxy/CglibMeiPo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/CglibProxy/CglibMeiPoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/gpproxy/GPInvocationHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/gpproxy/GPMeiPo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/gpproxy/GPProxyTest.java" />
@@ -229,8 +258,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/gupaoproxy/$Proxy0.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/gupaoproxy/GPInvocationHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/IEmployee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/gupaoproxy/GPClassLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/OrderService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/DbRouteTest.java" />
@@ -238,10 +265,49 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/proxy/OrderServiceDynamicProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/prototype/work/SubmitOrderCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/prototype/work/SubmitOrderEvent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/Leader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwh/prototype/work/EventTransferUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/Leader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/Boss.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lwh/delegate/simple/SimpleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/mvc/controllers/OrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/mvc/controllers/SystemController.java" />
+        <option value="$PROJECT_DIR$/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/mvc/controllers/MemberController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/delegate/mvc/DispatchServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/IPayStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/AliPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/WechatPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/UnionPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/StrategyFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/PromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/EmptyStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/CashbackStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/CouponStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/PromotionActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/PromotionStrategyFactory.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/MsgResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/Payment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/AliPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/WechatPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/JDPay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/PayStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayStrategyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/PromotionActivityTest.java" />
       </list>
     </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -251,10 +317,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="125" />
-    <option name="y" value="606" />
-    <option name="width" value="1395" />
-    <option name="height" value="760" />
+    <option name="x" value="30" />
+    <option name="y" value="575" />
+    <option name="width" value="1119" />
+    <option name="height" value="610" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -263,6 +329,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,7 +380,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="lwh" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -323,154 +390,70 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="lwh" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="pay" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="lwh" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="promotion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lwh" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lwh" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lwh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lwh" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lwh" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicproxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lwh" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicproxy" type="462c0819:PsiDirectoryNode" />
-              <item name="gupaoproxy" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552562956068" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553064189026" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\gitRepository\design-patterns" />
+      <recent name="E:\workspace\design-patterns\uml\factory" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lwh.strategy.pay.PayPort" />
+      <recent name="com.lwh.strategy.promotion" />
+      <recent name="com.lwh.strategy.pay" />
+      <recent name="com.lwh.delegate.mvc.controllers" />
+      <recent name="com.lwh.prototype.work" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gitRepository\design-patterns\src\main" />
       <recent name="E:\gitRepository\design-patterns\src\main\java\com\lwh\proxy\dynamicproxy\gupaoproxy" />
       <recent name="E:\gitRepository\design-patterns\src\main\java\com\lwh\proxy\dbroute" />
       <recent name="E:\gitRepository\design-patterns\src\main\java\com\lwh\proxy" />
       <recent name="E:\gitRepository\design-patterns\src\main\java\com\lwh\prototype" />
-      <recent name="E:\workspace\design-patterns" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.lwh.prototype.work" />
-      <recent name="com.lwh.delegate.simple" />
-      <recent name="com.lwh.proxy.gpproxy" />
-      <recent name="com.lwh.proxy.staticproxy" />
-      <recent name="com.lwh.prototype" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\workspace\design-patterns\uml\factory" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -485,20 +468,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EventTransferUtil">
-    <configuration name="CglibMeiPoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lwh.proxy.dynamicproxy.cglibproxy.CglibMeiPoTest" />
-      <module name="design-patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lwh.proxy.dynamicproxy.cglibproxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PayStrategyTest">
     <configuration name="DbRouteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lwh.proxy.dbroute.DbRouteTest" />
       <module name="design-patterns" />
@@ -525,12 +495,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GPProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lwh.proxy.dynamicproxy.gupaoproxy.GPProxyTest" />
+    <configuration name="PayStrategyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lwh.strategy.pay.PayStrategyTest" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lwh.proxy.dynamicproxy.gupaoproxy.*" />
+          <option name="PATTERN" value="com.lwh.strategy.pay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -538,12 +508,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDKProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lwh.proxy.dynamicproxy.JdkProxy.JDKProxyTest" />
+    <configuration name="PromotionActivityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lwh.strategy.promotion.PromotionActivityTest" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lwh.proxy.dynamicproxy.JdkProxy.*" />
+          <option name="PATTERN" value="com.lwh.strategy.promotion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -551,13 +521,108 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lwh.delegate.simple.SimpleTest" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lwh.delegate.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mvc" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="design-patterns:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/design_patterns_Web_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_design-patterns" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58079" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="design-patterns:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DbRouteTest" />
+      <item itemvalue="Application.EventTransferUtil" />
+      <item itemvalue="Application.SimpleTest" />
+      <item itemvalue="Tomcat Server.mvc" />
+      <item itemvalue="Application.PayStrategyTest" />
+      <item itemvalue="Application.PromotionActivityTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PayStrategyTest" />
+        <item itemvalue="Application.PromotionActivityTest" />
+        <item itemvalue="Application.SimpleTest" />
         <item itemvalue="Application.EventTransferUtil" />
         <item itemvalue="Application.DbRouteTest" />
-        <item itemvalue="Application.GPProxyTest" />
-        <item itemvalue="Application.CglibMeiPoTest" />
-        <item itemvalue="Application.JDKProxyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -576,29 +641,33 @@
       <workItem from="1552271429904" duration="9442000" />
       <workItem from="1552320077328" duration="1435000" />
       <workItem from="1552445431281" duration="17514000" />
-      <workItem from="1552534208461" duration="10307000" />
+      <workItem from="1552534208461" duration="13008000" />
+      <workItem from="1553004780605" duration="4216000" />
+      <workItem from="1553050220451" duration="2353000" />
+      <workItem from="1553052703037" duration="6331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50051000" />
+    <option name="totallyTimeSpent" value="65652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.64" visible="true" weight="0.29758713" />
-      <window_info id="Structure" order="1" sideWeight="0.36" side_tool="true" visible="true" weight="0.29758713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81840193" visible="true" weight="0.27546915" />
+      <window_info id="Structure" order="1" sideWeight="0.18159807" side_tool="true" visible="true" weight="0.27546915" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="6" />
       <window_info id="simpleUML" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.22096318" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24504249" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.398017" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.41501418" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -606,8 +675,10 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32719547" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5020107" side_tool="true" visible="true" weight="0.41501418" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49865952" weight="0.32719547" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.034852546" />
@@ -745,330 +816,28 @@
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/mvc/DispatchServlet.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/mvc/DispatchServlet.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/mvc/DispatchServlet.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/staticproxy/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lwh/proxy/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/staticproxy/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lwh/proxy/staticproxy/SimpleProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/simpleproxy/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/simpleproxy/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk1.8.0/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="92" column="18" lean-forward="true" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk1.8.0/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/Order.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/OrderDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/cglibproxy/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/cglib/cglib/3.2.10/cglib-3.2.10.jar!/net/sf/cglib/proxy/MethodInterceptor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/cglib/cglib/3.2.10/cglib-3.2.10-sources.jar!/net/sf/cglib/proxy/MethodInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/JdkProxy/JDKMeiPo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="25" selection-start-line="25" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/cglibproxy/CglibMeiPo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/cglibproxy/CglibMeiPoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/JdkProxy/JDKProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/JdkProxy/Gril.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/gupaoproxy/$Proxy0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/IEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeB.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/proxy/OrderServiceStaticProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk1.8.0/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3600">
-          <caret line="177" column="22" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/gupaoproxy/GPProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/gupaoproxy/GPMeiPo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/db/DynamicDatasourceEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk1.8.0/src.zip!/java/text/DateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="342" column="24" selection-start-line="342" selection-start-column="24" selection-end-line="342" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/IOrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/$Proxy0.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#613#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/lwh/proxy/dynamicproxy/gupaoproxy/$Proxy0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/gupaoproxy/GPInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/gupaoproxy/GPClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dynamicproxy/gupaoproxy/GPProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="138" column="47" selection-start-line="138" selection-start-column="47" selection-end-line="138" selection-end-column="47" />
-          <folding>
-            <element signature="method#newProxyInstance#0;class#GPProxy#0" />
-            <element signature="imports" expanded="true" />
-            <element signature="method#newProxyInstance#0;class#GPProxy#0" />
-            <element signature="e#7189#7203#0" expanded="true" />
-            <element signature="e#7893#7894#0" expanded="true" />
-            <element signature="e#7935#7936#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/proxy/OrderServiceDynamicProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/proxy/dbroute/DbRouteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/prototype/work/SubmitOrderCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -1109,24 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/Leader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#156#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk1.8.0/src.zip!/java/beans/Introspector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="176" column="9" lean-forward="true" selection-start-line="176" selection-start-column="9" selection-end-line="176" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/prototype/GoldenCudgel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-48">
@@ -1145,48 +896,397 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/lwh/delegate/simple/Test.class" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lwh/prototype/PrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/prototype/MonkeyKing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="480">
           <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar!/org/apache/commons/beanutils/BeanUtils.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="750">
           <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lwh/prototype/PrototypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar!/org/apache/commons/beanutils/BeanUtilsBean.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="6990">
           <caret line="254" selection-start-line="254" selection-end-line="254" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar!/org/apache/commons/beanutils/PropertyUtilsBean.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
+        <state relative-caret-position="25920">
           <caret line="883" selection-start-line="883" selection-end-line="883" />
         </state>
       </provider>
     </entry>
+    <entry file="jar://E:/java/jdk1.8.0/src.zip!/java/beans/Introspector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3930">
+          <caret line="176" column="9" selection-start-line="176" selection-start-column="9" selection-end-line="176" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/prototype/work/EventTransferUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="300">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="24" selection-start-line="5" selection-end-line="6" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/EmployeeB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.lwh.delegate.simple">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.lwh.delegate.simple</OriginalElement>
+          <nodes>
+            <node x="" y="">com.lwh.delegate.simple.Boss</node>
+            <node x="" y="">com.lwh.delegate.simple.Leader</node>
+            <node x="" y="">com.lwh.delegate.simple.IEmployee</node>
+            <node x="" y="">com.lwh.delegate.simple.EmployeeB</node>
+            <node x="" y="">com.lwh.delegate.simple.EmployeeA</node>
+            <node x="" y="">com.lwh.delegate.simple.SimpleTest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="177.0" y="215.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.lwh.delegate.simple.Boss">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.lwh.delegate.simple.Boss</OriginalElement>
+          <nodes>
+            <node x="" y="">com.lwh.delegate.simple.Boss</node>
+            <node x="" y="">com.lwh.delegate.simple.Leader</node>
+            <node x="" y="">com.lwh.delegate.simple.IEmployee</node>
+            <node x="" y="">com.lwh.delegate.simple.EmployeeB</node>
+            <node x="" y="">com.lwh.delegate.simple.EmployeeA</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="37.0" y="55.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/Boss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lwh/delegate/simple/SimpleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/design_patterns_Web_exploded/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/mvc/DispatchServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="80" column="5" lean-forward="true" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/mvc/controllers/MemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/mvc/controllers/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/mvc/controllers/SystemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/IEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/delegate/simple/Leader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/IPayStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/WechatPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/UnionPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/AliPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/StrategyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/PromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/EmptyStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/CashbackStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/CouponStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/PromotionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/PromotionStrategyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#200#227#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/MsgResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/AliPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/WechatPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/JDPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayPort/PayStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#179#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/pay/PayStrategyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lwh/strategy/promotion/PromotionActivityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -1196,10 +1296,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>design-patterns:Web exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1207,7 +1309,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1242,12 +1344,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>design-patterns</last-edited>
+          <last-edited>Web|design-patterns</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

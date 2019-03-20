@@ -3,7 +3,7 @@ package com.lwh.delegate.simple;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Leader {
+public class Leader implements IEmployee{
     private Map<String,IEmployee> map = new HashMap<String,IEmployee>();
 
     public Leader(){
